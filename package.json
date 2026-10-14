@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lucide-react": "^1.24.0",
+    "remark-gfm": "^4.0.1"
+  }
+}
